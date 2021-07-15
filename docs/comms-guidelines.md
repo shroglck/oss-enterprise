@@ -4,7 +4,7 @@ We respond to newly opened issues within 48 hours during business hours. This is
 
 # Organization and repository structure
 
-All our repositories are housed within the Octocorp organization.
+All our repositories are housed within the Octocorp organization.vbb
 
 # Maintainer responsibilities
 
