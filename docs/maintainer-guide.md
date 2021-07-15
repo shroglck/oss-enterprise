@@ -42,4 +42,4 @@ An Open Source project is stronger when it has an active and passionate communit
 - Hold virtual office hours for your project to allow the community to connect and discuss challenging problems
 - Create great documentation that helps users understand how to use your project, this will make community support a useful task for new contributors  
 - Add a roadmap to your project so others can see where it is heading
-- Celebrate contributions by listing contributors in your repository or on the project website
+- Celebrate contributions by listing contributors in your repository or on the project websiteadaw
